@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smiro35/portfolio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/smiro35/portfolio/static/js/main.af86fa61.chunk.js",
+    "main.js.map": "/smiro35/portfolio/static/js/main.af86fa61.chunk.js.map",
+    "runtime-main.js": "/smiro35/portfolio/static/js/runtime-main.ba6c9fd7.js",
+    "runtime-main.js.map": "/smiro35/portfolio/static/js/runtime-main.ba6c9fd7.js.map",
+    "static/js/2.eabf0129.chunk.js": "/smiro35/portfolio/static/js/2.eabf0129.chunk.js",
+    "static/js/2.eabf0129.chunk.js.map": "/smiro35/portfolio/static/js/2.eabf0129.chunk.js.map",
+    "index.html": "/smiro35/portfolio/index.html",
+    "precache-manifest.7f1165720223a0f10caf43999da70401.js": "/smiro35/portfolio/precache-manifest.7f1165720223a0f10caf43999da70401.js",
+    "service-worker.js": "/smiro35/portfolio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/smiro35/portfolio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.eabf0129.chunk.js.LICENSE.txt": "/smiro35/portfolio/static/js/2.eabf0129.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/smiro35/portfolio/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba6c9fd7.js",
+    "static/js/2.eabf0129.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.af86fa61.chunk.js"
+  ]
+}
